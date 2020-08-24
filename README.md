@@ -1,2 +1,2 @@
 # sample gitpractice repository
-checkout sql dock along. 
+checkout sql docs along. 
